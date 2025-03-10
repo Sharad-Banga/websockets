@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^5.8.2"
+    "@types/ws": "^8.18.0",
+    "typescript": "^5.8.2",
+    "ws": "^8.18.1"
   },
-  "scripts":{
-    "dev" : "tsc -b && node ./dist/index.js"
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js"
   }
 }
