@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ws-fe"
+		},
+		{
+			"path": "../ws-fee"
+		}
+	],
+	"settings": {}
+}
